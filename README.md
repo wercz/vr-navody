@@ -16,12 +16,12 @@
         </li>
         <li>
             <a href="vr pravidla a zásady - adrop quest3s.docx" download>
-                Návod Oculus Quest 3S
+                Návod Meta Quest 3S
             </a>
         </li>
         <li>
             <a href="vr pravidla a zásady-quest3.pdf" download>
-                Návod Oculus Quest 3
+                Návod Meta Quest 3
             </a>
         </li>
     </ul>
