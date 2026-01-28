@@ -10,19 +10,19 @@
 
     <ul>
         <li>
-            <img src="quest2.png" alt="Oculus Quest 2" style="width:50px; vertical-align:middle;">
+            <img src="quest2.png" alt="Oculus Quest 2" style="width:80px; vertical-align:middle;">
             <a href="vr pravidla a zásady - adrop quest2.docx" download>
                 Návod Oculus Quest 2
             </a>
         </li>
         <li>
-            <img src="quest3s.png" alt="Oculus Quest 2" style="width:50px; vertical-align:middle;">
+            <img src="quest3s.png" alt="Oculus Quest 2" style="width:80px; vertical-align:middle;">
             <a href="vr pravidla a zásady - adrop quest3s.docx" download>
                 Návod Meta Quest 3S
             </a>
         </li>
         <li>
-            <img src="quest3.png" alt="Oculus Quest 2" style="width:50px; vertical-align:middle;">
+            <img src="quest3.png" alt="Oculus Quest 2" style="width:80px; vertical-align:middle;">
             <a href="vr pravidla a zásady-quest3.pdf" download>
                 Návod Meta Quest 3
             </a>
