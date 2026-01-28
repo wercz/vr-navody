@@ -17,7 +17,7 @@
         </li>
         <li>
             <img src="quest2.png" alt="Oculus Quest 2" style="width:150px; vertical-align:middle;">
-            <a href="vr pravidla a zásady - adrop quest3s.docx" download>
+            <a href="vr pravidla a zásady - bez sdílení-quest2.pdf" download>
                 Návod Meta Quest 2 (cestovatelský)
             </a>
         </li>
