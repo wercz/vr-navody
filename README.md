@@ -29,7 +29,7 @@
              </li>
              <li>
             <img src="quest3.png" alt="Oculus Quest 3" style="width:150px; vertical-align:middle;">
-            <a href="vr pravidla a zásady - adrop quest3s.docx" download>
+            <a href="vr pravidla a zásady - bez sdílení-quest3.pdf" download>
                 Návod Meta Quest 3 (bez sdílení obrazu)
             </a>
         </li>
