@@ -10,6 +10,7 @@
 
     <ul>
         <li>
+             <img src="quest2.png" alt="Oculus Quest 2" style="width:50px; vertical-align:middle;">
             <a href="vr pravidla a zásady - adrop quest2.docx" download>
                 Návod Oculus Quest 2
             </a>
